@@ -1,5 +1,5 @@
 ﻿Portuguese: 
-#Exemplo de aplicação Java usando JPA com EclipseLink se conectando com banco de dados MySql
+# Exemplo de aplicação Java usando JPA com EclipseLink se conectando com banco de dados MySql
 
 1 - Foi criado um projeto Maven do Eclipse, é só importar um projeto Maven no Eclipse.  
 
@@ -13,7 +13,7 @@
 
 
 English: 
-#Example of Java application using JPA with EclipseLink connecting with database MySql
+# Example of Java application using JPA with EclipseLink connecting with database MySql
 
 1 - A standard Eclipse Maven project was created, just import a Maven project in Eclipse.
 
